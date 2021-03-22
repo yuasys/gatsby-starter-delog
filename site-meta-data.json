@@ -3,7 +3,7 @@
   "siteUrl": "https://delog-w3layouts.netlify.com/",
   "description": "このサイトはstarterにdelogをそしてNetlify CMSを使ったブログ制作デモです。",
   "home": {
-    "title": "やあ、私はDelogです",
+    "title": "ユアシスデモサイト01-delogです",
     "description": "私はデザイナーや開発者のためのデジタルホームになるように特別に設計されており、彼らが素晴らしいプロ並みのウェブサイトを簡単に構築できるように支援します。 ブログを運営するためにウェブホスティングサービスの本質を心配する必要はありませんが、コンテンツを管理するためにCMSを最大限に活用します:)"
   }
 }
