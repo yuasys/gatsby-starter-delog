@@ -4,6 +4,6 @@
   "description": "このサイトはstarterにdelogをそしてNetlify CMSを使ったブログ制作デモです。",
   "home": {
     "title": "ユアシスデモサイト01-delogです",
-    "description": "## はじめまして\nこのサイトは<b>株式会社ユアシス</b>が制作しました。\n\n- 識別名：01-delog\n- 由来：Gatsbyの「gatsby-starter-delog」を用いたサイトです\n- 用いている技術\n> 1. react.js\n> 1. フレームワーク gatsby.js\n> 1. デプロイ及びデータ管理 <span style=\"color:red\">Netlify,NetlifyCMS</span>\n\n- バージョン管理：github\n"
+    "description": "## はじめまして"
   }
 }
