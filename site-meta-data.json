@@ -4,6 +4,6 @@
   "description": "このサイトはstarterにdelogをそしてNetlify CMSを使ったブログ制作デモです。",
   "home": {
     "title": "ユアシスデモサイト01-delogです",
-    "description": "\bここで実験やってみました。<br>改行できているみたいですね。\n\nエンターキーで改行して見ました。 次はシフト＋エンターキーでやってみました\nが、どうでしょう\n\n今度は全面的にhtmlタグを使ってみます。\n\n<p class=\"redclass\">redclassの段落です</p>\n<style>\n.redclass{color:red;}\n</style>\n\nうまく言っているみたいですね。\n\n<h3>ついてにH3ヘッダーやってみます</h3>"
+    "description": "\bここで実験やってみました。<br>改行できているみたいですね。\n\nエンターキーで改行して見ました。 次はシフト＋エンターキーでやってみました\nが、どうでしょう\n\n今度は全面的にhtmlタグを使ってみます。\n\n<p class=\"redclass\">redclassの段落です</p>\nうまく言っているみたいですね。\n\n<h3>ついてにH3ヘッダーやってみます</h3>\n\n<p class=\"redclass\">結論：ちゃんと表現するにはhtmlで書くべき</p>\n\n<style>\n.redclass{color:red;}\n</style>"
   }
 }
