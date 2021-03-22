@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
+  "title": "ユアシスのdelogデモ",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "このサイトはstarterにdelogをそしてNetlify CMSを使ったブログ制作デモです。",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "やあ、私はDelogです",
+    "description": "私はデザイナーや開発者のためのデジタルホームになるように特別に設計されており、彼らが素晴らしいプロ並みのウェブサイトを簡単に構築できるように支援します。 ブログを運営するためにウェブホスティングサービスの本質を心配する必要はありませんが、コンテンツを管理するためにCMSを最大限に活用します:)"
   }
 }
